@@ -1,6 +1,6 @@
 # ****Giphy Party****
-
-In this exercise I utilize my knowledge of axios and AJAX! Also, I used the Giphy API!
+ 
+In this exercise I utilize my newfound knowledge of AJAX and Axios to work with some external APIs (Giphy API!)
 
 ## **The Application**
 
