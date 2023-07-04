@@ -1,0 +1,30 @@
+body {
+	height: 100vh;
+	background-color: black;
+	color: white;
+	overflow-x: hidden;
+}
+
+form{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 20px;
+}
+
+.disable{
+	cursor: not-allowed;
+}
+
+.active{
+	cursor: pointer;
+}
+
+#search{
+	height: 38px;
+}
+
+.divGiphy {
+	align-content: center;
+	padding: 5px;
+}
