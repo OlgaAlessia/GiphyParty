@@ -15,8 +15,8 @@ async function getGiphy(value){
     try{
         const res = await axios.get("http://api.giphy.com/v1/gifs/search", { 
           params : { 
-            q: value, 
-            api_key: "MhAodEJIJxQMxW9XqxKjyXfNYdLoOIym"
+            api_key: "xS6h3yQaVvGgLayWylSKaeOHXHKBOVjb",
+            q: value
         }
     });
         renderGiphy(res.data.data);
